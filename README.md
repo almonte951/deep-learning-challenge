@@ -35,5 +35,3 @@ Tuned the learning rate of the optimizer to improve convergence.
 
 Summary of the Deep Learning Model Results
 The deep learning model developed for Alphabet Soup successfully predicted the likelihood of an organization's funding success, achieving an accuracy close to or above the target of 75% after iterative optimizations. The process involved preprocessing the data, building a neural network with two hidden layers, and tuning hyperparameters such as the number of neurons, epochs, and dropout regularization to improve performance.
-![image](https://github.com/user-attachments/assets/5e990023-3235-4fd5-815a-9d2ee536ec0d)
-
